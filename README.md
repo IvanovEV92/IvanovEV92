@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/Trello-282C34?logo=Trello&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 
 
-## Statistic
+## 📈 Statistic
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IvanovEV92&show_icons=true&locale=en&theme=gotham" alt="IvanovEV92" /></p>
 
