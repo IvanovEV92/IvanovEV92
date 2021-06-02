@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Sass-d1cfcb?logo=Sass&logoColor=CC6699&labelColor=fff&color=cdf7c8" alt="Sass logo" title="Sass" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-d1cfcb?logo=javascript&logoColor=F7DF1E&labelColor=fff&color=cdf7c8" alt="JavaScript logo" title="JavaScript" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/React-d1cfcb?logo=React&logoColor=61DAFB&labelColor=fff&color=cdf7c8" alt="React logo" title="React" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/React%20Router-d1cfcb?logo=React-Router&logoColor=764ABC&labelColor=fff&color=cdf7c8" alt="React-Router logo" title="Redux" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/React%20Router-d1cfcb?logo=React-Router&logoColor=CA4245&labelColor=fff&color=cdf7c8" alt="React-Router logo" title="Redux" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Redux-d1cfcb?logo=redux&logoColor=764ABC&labelColor=fff&color=cdf7c8" alt="Redux logo" title="Redux" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/ESLint-d1cfcb?logo=eslint&logoColor=4B32C3&labelColor=fff&color=cdf7c8" alt="ESLint logo" title="ESLint" height="25" />
 
