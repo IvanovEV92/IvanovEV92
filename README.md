@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Yevhenii! 👋</h1>
+<h1 align="center">Hi there, I'm Yevhenii! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" </h1>
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
 
 ## 🔍  Where to find me
@@ -10,7 +10,7 @@
 ## 🖥 Technologies
 
 <a name="learning-now"></a>
-<img src="https://img.shields.io/badge/HTML5-d1cfcb?logo=HTML5&logoColor=E34F26&labelColor=fff&color=cdf7c8" alt="HTML5 logo" title="HTML5" height="25" color="fff"/>&nbsp;
+[<img src="https://img.shields.io/badge/HTML5-d1cfcb?logo=HTML5&logoColor=E34F26&labelColor=fff&color=cdf7c8" alt="HTML5 logo" title="HTML5" height="25" color="fff"/>](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics)&nbsp;
 <img src="https://img.shields.io/badge/CSS3-d1cfcb?logo=CSS3&logoColor=1572B6&labelColor=fff&color=cdf7c8" alt="CSS3 logo" title="CSS3" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Sass-d1cfcb?logo=Sass&logoColor=CC6699&labelColor=fff&color=cdf7c8" alt="Sass logo" title="Sass" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-d1cfcb?logo=javascript&logoColor=F7DF1E&labelColor=fff&color=cdf7c8" alt="JavaScript logo" title="JavaScript" height="25" />&nbsp;
@@ -51,7 +51,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IvanovEV92&show_icons=true&locale=en&theme=gotham" alt="IvanovEV92" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IvanovEV92&show_icons=true&locale=en&layout=compact&langs_count=6&theme=gotham" alt="IvanovEV92" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=IvanovEV92&label=Profile%20views&color=0e75b6&style=flat" alt="IvanovEV92" /> </p>
-<br/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IvanovEV92&hide_border=true)](https://git.io/streak-stats)
+
+  
+<p> <img src="https://komarev.com/ghpvc/?username=IvanovEV92&label=Profile%20views&color=0e75b6&style=flat" alt="IvanovEV92" /> </p>
+
