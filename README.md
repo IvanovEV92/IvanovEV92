@@ -2,10 +2,11 @@
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
 
 ## 🔍  Where to find me
-
+[<img src="https://img.shields.io/badge/Gmail-282C34?logo=Gmail&logoColor=EA4335&labelColor=fff&color=cdf7c8" alt="LinkedIn logo" title="LinkedIn" target="_blank" height="25" />](mailto:ivanov191192@gmail.com)&nbsp;
 [<img src="https://img.shields.io/badge/Telegram-282C34?logo=Telegram&logoColor=FE7A16&labelColor=fff&color=cdf7c8" alt="Telegram logo" title="Telegram" target="_blank" height="25" />](https://t.me/JenyaIvanov)
 &nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5&labelColor=fff&color=cdf7c8" alt="LinkedIn logo" title="LinkedIn" target="_blank" height="25" />](https://www.linkedin.com/in/yevhenii-ivanov/)
+
 
 ## 🖥 Technologies
 
