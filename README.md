@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Yevhenii! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" </h1>
-<img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
+<h1 align="center">Hi there, I'm Yevhenii! <img src="https://github.com/IvanovEV92/IvanovEV92/blob/main/assets/Hi.gif" height="32" </h1>
+<img src='https://github.com/IvanovEV92/IvanovEV92/blob/main/assets/Monkey_Kid_Coding.gif' align='left'>
 
 ## 🔍  Where to find me
 [<img src="https://img.shields.io/badge/Gmail-282C34?logo=Gmail&logoColor=EA4335&labelColor=fff&color=cdf7c8" alt="LinkedIn logo" title="LinkedIn" target="_blank" height="25" />](mailto:ivanov191192@gmail.com)&nbsp;
