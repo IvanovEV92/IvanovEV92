@@ -1,5 +1,17 @@
-<h1 align="center">Hi there, I'm Yevhenii! <img src="https://github.com/IvanovEV92/IvanovEV92/blob/main/assets/Hi.gif" height="32" </h1>
-<img src='https://github.com/IvanovEV92/IvanovEV92/blob/main/assets/Monkey_Kid_Coding.gif' align='left'>
+<h1 align="center">Hi there, I'm Yevhenii! <img  height="32" src="https://github.com/IvanovEV92/IvanovEV92/blob/main/assets/Hi.gif"></h1>
+<img src='https://github.com/IvanovEV92/IvanovEV92/blob/main/assets/Monkey_Kid_Coding.gif' align='left' height='200'>
+
+
+I am a hard-working, motivated, results-oriented fullstack developer from Ukraine 🇺🇦.
+
+I am a recent graduate of programming courses seeking a position or a project where my acquired skills and knowledge will be of value. I am well-organized and efficient developer able to work hard to achieve goals. 
+
+Besides programming, I am keen on football⚽, computer games🎮 and music🎧.
+
+My goal for 2021 - to completely change the specialization of work and .
+
+
+---
 
 ## 🔍  Where to find me
 [<img src="https://img.shields.io/badge/Gmail-282C34?logo=Gmail&logoColor=EA4335&labelColor=fff&color=cdf7c8" alt="LinkedIn logo" title="LinkedIn" target="_blank" height="25" />](mailto:ivanov191192@gmail.com)&nbsp;
