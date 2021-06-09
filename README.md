@@ -37,7 +37,6 @@ My goal for 2021 - to completely change the specialization of work and .
 ## 📖  What I am currently learning / improving on
 
 <img src="https://img.shields.io/badge/Node.js-282C34?logo=Node&logoColor=339933&color=cdf7c8" alt="Node.js logo" title="Node.js" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/Next.js-282C34?logo=Next.js&logoColor=000000&color=cdf7c8" alt="Next.js logo" title="Next.js" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=000000&labelColor=fff&color=cdf7c8" alt="Express.js logo" title="Express.js" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=MongoDB&logoColor=47A248&labelColor=fff&color=cdf7c8" alt="MongoDB logo" title="MongoDB" height="25" />
 
@@ -45,6 +44,7 @@ My goal for 2021 - to completely change the specialization of work and .
 ## 👾  What I am interested in learning in the future
 
 <img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD0031&labelColor=fff&color=cdf7c8" alt="Angular logo" title="Flutter" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Next.js-282C34?logo=Next.js&logoColor=000000&color=cdf7c8" alt="Next.js logo" title="Next.js" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js&logoColor=4FC08D&color=cdf7c8" alt="Vue.js logo" title="Vue.js" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6&labelColor=fff&color=cdf7c8" alt="TypeScript logo" title="TypeScript" height="25" />
 
