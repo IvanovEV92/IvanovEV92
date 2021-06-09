@@ -8,7 +8,7 @@ I am a recent graduate of programming courses seeking a position or a project wh
 
 Besides programming, I am keen on football⚽, computer games🎮 and music🎧.
 
-My goal for 2021 - to completely change the specialization of work and .
+My goal for 2021 - to completely change the specialization of work.
 
 
 ---
@@ -23,14 +23,13 @@ My goal for 2021 - to completely change the specialization of work and .
 ## 🖥 Technologies
 
 <a name="learning-now"></a>
-[<img src="https://img.shields.io/badge/HTML5-d1cfcb?logo=HTML5&logoColor=E34F26&labelColor=fff&color=cdf7c8" alt="HTML5 logo" title="HTML5" height="25" color="fff"/>](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics)&nbsp;
-<img src="https://img.shields.io/badge/CSS3-d1cfcb?logo=CSS3&logoColor=1572B6&labelColor=fff&color=cdf7c8" alt="CSS3 logo" title="CSS3" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/Sass-d1cfcb?logo=Sass&logoColor=CC6699&labelColor=fff&color=cdf7c8" alt="Sass logo" title="Sass" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-d1cfcb?logo=javascript&logoColor=F7DF1E&labelColor=fff&color=cdf7c8" alt="JavaScript logo" title="JavaScript" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/React-d1cfcb?logo=React&logoColor=61DAFB&labelColor=fff&color=cdf7c8" alt="React logo" title="React" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/React%20Router-d1cfcb?logo=React-Router&logoColor=CA4245&labelColor=fff&color=cdf7c8" alt="React-Router logo" title="Redux" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/Redux-d1cfcb?logo=redux&logoColor=764ABC&labelColor=fff&color=cdf7c8" alt="Redux logo" title="Redux" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/ESLint-d1cfcb?logo=eslint&logoColor=4B32C3&labelColor=fff&color=cdf7c8" alt="ESLint logo" title="ESLint" height="25" />
+[<img src="https://img.shields.io/badge/HTML5-d1cfcb?logo=HTML5&logoColor=E34F26&labelColor=fff&color=cdf7c8" alt="HTML5 logo" title="HTML5" height="25" color="fff"/>](https://developer.mozilla.org/ru/docs/Web/HTML)&nbsp;
+[<img src="https://img.shields.io/badge/CSS3-d1cfcb?logo=CSS3&logoColor=1572B6&labelColor=fff&color=cdf7c8" alt="CSS3 logo" title="CSS3" height="25" />](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics)&nbsp;
+[<img src="https://img.shields.io/badge/Sass-d1cfcb?logo=Sass&logoColor=CC6699&labelColor=fff&color=cdf7c8" alt="Sass logo" title="Sass" height="25" />](https://sass-lang.com/)&nbsp;
+[<img src="https://img.shields.io/badge/JavaScript-d1cfcb?logo=javascript&logoColor=F7DF1E&labelColor=fff&color=cdf7c8" alt="JavaScript logo" title="JavaScript" height="25" />](https://javascript.info/)&nbsp;
+[<img src="https://img.shields.io/badge/React-d1cfcb?logo=React&logoColor=61DAFB&labelColor=fff&color=cdf7c8" alt="React logo" title="React" height="25" />](https://reactjs.org)&nbsp;
+[<img src="https://img.shields.io/badge/React%20Router-d1cfcb?logo=React-Router&logoColor=CA4245&labelColor=fff&color=cdf7c8" alt="React-Router logo" title="Redux" height="25" />](https://reactrouter.com/)&nbsp;
+[<img src="https://img.shields.io/badge/Redux-d1cfcb?logo=redux&logoColor=764ABC&labelColor=fff&color=cdf7c8" alt="Redux logo" title="Redux" height="25" />](https://redux.js.org/)
 
 
 
@@ -56,7 +55,8 @@ My goal for 2021 - to completely change the specialization of work and .
 <img src="https://img.shields.io/badge/gulp-282C34?logo=gulp&logoColor=CF4647&labelColor=fff&color=cdf7c8" alt="gulp logo" title="gulp" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC&labelColor=fff&color=cdf7c8" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Postman-282C34?logo=Postman&logoColor=FF6C37&labelColor=fff&color=cdf7c8" alt="Postman logo" title="Postman" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/Trello-282C34?logo=Trello&logoColor=0052CC&labelColor=fff&color=cdf7c8" alt="Trello logo" title="Trello" height="25" />
+<img src="https://img.shields.io/badge/Trello-282C34?logo=Trello&logoColor=0052CC&labelColor=fff&color=cdf7c8" alt="Trello logo" title="Trello" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/ESLint-d1cfcb?logo=eslint&logoColor=4B32C3&labelColor=fff&color=cdf7c8" alt="ESLint logo" title="ESLint" height="25" />
 
 
 ## 📈 Statistic
