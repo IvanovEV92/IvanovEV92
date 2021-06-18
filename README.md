@@ -6,7 +6,7 @@ I am a hard-working, motivated, results-oriented fullstack developer from Ukrain
 
 I am a recent graduate of programming courses seeking a position or a project where my acquired skills and knowledge will be of value. I am well-organized and efficient developer able to work hard to achieve goals. 
 
-Besides programming, I am keen on football⚽, computer games🎮 and music🎧.
+Besides programming, I am keen on football ⚽, computer games 🎮  and music 🎧.
 
 My goal for 2021 - to completely change the specialization of work.
 
